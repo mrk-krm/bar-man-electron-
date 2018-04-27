@@ -10,5 +10,8 @@
     "license": "ISC",
     "devDependencies": {
         "electron": "^1.7.11"
+    },
+    "dependencies": {
+        "uikit": "^3.0.0-beta.42"
     }
 }
